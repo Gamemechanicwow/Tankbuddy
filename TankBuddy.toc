@@ -1,0 +1,7 @@
+## Interface: 20000
+## Title: Tank Buddy
+## Notes: Notices Party/Raid members when you use last stand, shield wall, lifegiving gem or when your taunt/growl/mocking blow fails. It can also remove salvation automatically, either always or only in defensive stance/bear form.
+## Dependencies:
+## SavedVariables: TBSettings
+## OptionalDeps: CT_RaidAssist
+TankBuddy.xml
